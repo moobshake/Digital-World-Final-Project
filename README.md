@@ -29,7 +29,7 @@ There are a total of 8 **main** classes and 1 **inner** class used in the projec
 >2. State Machine (for 'How to Play?' screen)
 >3. Random (for the game)  
 We will go through them here:  
-### 8 Main Classes Use:
+### The 8 Main Classes Used:
 >**1. ConcGame(App)**  
 >>* The main class which the game is ran from. It contains the App Class from Kivy. 
 >>* This will initialise and add 5 classes with Screen Objects into a Screen Manager Object.
@@ -72,3 +72,4 @@ We will go through them here:
 
 ## Special Thanks To:
 * ['Cainos' from Pixel Art](https://cainos.itch.io/pixel-art-icon-pack-rpg) for providing the pixel art that are used for the game.
+* [Fesliyan Studios](https://www.fesliyanstudios.com/royalty-free-music), for the Royalty Free Musics.
