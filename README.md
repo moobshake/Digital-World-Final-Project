@@ -72,4 +72,4 @@ We will go through them here:
 
 ## Special Thanks To:
 * ['Cainos' from Pixel Art](https://cainos.itch.io/pixel-art-icon-pack-rpg) for providing the pixel art that are used for the game.
-* [Fesliyan Studios](https://www.fesliyanstudios.com/royalty-free-music), for the Royalty Free Musics.
+* [Fesliyan Studios](https://www.fesliyanstudios.com/royalty-free-music), for the Royalty Free music.
