@@ -1,5 +1,5 @@
 ## Important Links
-[Youtube Video Link](www.youtube.com), for the explaination and showcase of the game  
+[Youtube Video Link](https://youtu.be/SWNLbZNejkE), for the explaination and showcase of the game  
 [GitHub Link](https://github.com/moobshake/Digital-World-Final-Project), can view or download the project here. Can view the markdown file the way it is suppose to be viewed  
 ## Concentration - A Memory Game!
 Concentration takes inspiration from a game I played in childhood of the same name with a deck of poker cards. An online version of the game from 'MathIsfun.com' can be found [Here](https://www.mathsisfun.com/games/memory/index.html). This game can train the memorization ability of the player.    
@@ -24,11 +24,12 @@ _However if you prefer to view it here:_
 * **Step 6**: This is what it will look like when you found all the pairs! Good luck and have fun!
 > ![Step 6](icons/step6.png)
 ## Code Description
-There are a total of 8 **main** classes and 1 **inner** class used in the project. The game uses **three** main libraries to function:
+There are a total of 8 **main** Classes and 1 **inner** Class used in the project. The game uses **three** main libraries to function:
 >1. KIVY (for GUI)
 >2. State Machine (for 'How to Play?' screen)
 >3. Random (for the game)  
-We will go through them here:  
+
+We will go through the **Classes** here:  
 ### The 8 Main Classes Used:
 >**1. ConcGame(App)**  
 >>* The main class which the game is ran from. It contains the App Class from Kivy. 
